@@ -32,7 +32,7 @@ spec:
 
       - name: myapp
 
-        image: kubesamm/myapp:v1
+        image: kubesamm/myapptest
 
         ports:
 
